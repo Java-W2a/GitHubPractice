@@ -1,2 +1,2 @@
 this is edit fom SubMaster
-newBranch has added few more lines
+subBranch has added few more lines
